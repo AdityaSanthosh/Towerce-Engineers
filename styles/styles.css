@@ -75,6 +75,8 @@ html,body {
     background-color: rgb(25, 162, 207);
     margin-top: 5%;
     margin-bottom: 0%;
+    position: relative;
+    bottom: 0;
 }
 li {
     margin-bottom: 2%;
